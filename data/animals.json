@@ -99,15 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "name",
-      "species": "Species Test",
-      "diet": "folivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "10"
     }
   ]
 }
